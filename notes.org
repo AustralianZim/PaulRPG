@@ -1,0 +1,13 @@
+* The big TODO list
+** TODO Make a player class
+Create a player object with various properties/methods
+  - Inherit Surface(?)
+  - Properties:
+    + Position
+    + Surface/graphic
+    + Rect
+  - player.Move(x, y)
+  - player.Reposition(x, y)
+
+
+
